@@ -1,5 +1,5 @@
 function botao() {
-  const cidade = document.querySelector(".input-cidade").value;
+  const cidade = document.querySelector("input").value;
   buscarCidade(cidade);
 }
 
