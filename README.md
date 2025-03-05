@@ -1,6 +1,6 @@
 <div>
 
-# Previsão do Tempo - https://vnz-007.github.io/Previsao-do-Tempo/
+# Previsão do Tempo https://vnz-007.github.io/Previsao-do-Tempo/
 
 </div>
 
